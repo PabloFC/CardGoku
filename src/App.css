@@ -1,0 +1,19 @@
+body {
+  height: 100vh;
+}
+
+.contenedor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+}
+
+.card {
+  padding: 10px;
+}
+
+.goku {
+  width: 80% !important;
+  height: 80% !important;
+}
